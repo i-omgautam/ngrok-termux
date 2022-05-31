@@ -2,19 +2,23 @@
 # ngrok installation for termux.    
 ngrok is a cross-platform application used to expose a local development server to the Internet, the server appears to be hosted on a subdomain of ngrok (e.g., 4f421deb219c[.]ngrok[.]io) by creating a long-lived TCP tunnel to the localhost. The experts pointed out that ngrok server software runs on a VPS or a dedicated server and can bypass NAT mapping and Firewall restriction.
 
-#command 
+# command 
 
-$ apt update && apt upgrade 
+```bash
+ $ apt update && apt upgrade 
 
 $ apt install git 
 
-$ git clone https://github.com/AL-AlamySploit/termux-ngrok
+$ git clone https://github.com/i-omgautam/ngrok-termux/
 
 $ cd termux-ngrok 
 
 $ chmod +x termux-ngrok.sh 
 
 $ sh termux-ngrok.sh
+
+```
+
 
 # What is ngrok?   
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
