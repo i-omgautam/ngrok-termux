@@ -11,9 +11,9 @@ $ apt install git
 
 $ git clone https://github.com/i-omgautam/ngrok-termux/
 
-$ cd termux-ngrok 
+$ cd Ngrok-Termux
 
-$ chmod +x termux-ngrok.sh 
+$ chmod +x Ngrok-Termux.sh 
 
 $ sh termux-ngrok.sh
 
