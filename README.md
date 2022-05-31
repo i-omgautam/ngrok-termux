@@ -15,7 +15,7 @@ $ cd Ngrok-Termux
 
 $ chmod +x Ngrok-Termux.sh 
 
-$ sh termux-ngrok.sh
+$ sh Ngrok-Termux.sh 
 
 ```
 
