@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Language-Shell-informational?style=flat&logo=shell&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Kali_Tools-information?style=flat&logo=kalilinux&logoColor=white&color=3bac3a)
+
 # ngrok-termux
 # ngrok installation for termux and Kali Linux.    
 ngrok is a cross-platform application used to expose a local development server to the Internet, the server appears to be hosted on a subdomain of ngrok (e.g., 4f421deb219c[.]ngrok[.]io) by creating a long-lived TCP tunnel to the localhost. The experts pointed out that ngrok server software runs on a VPS or a dedicated server and can bypass NAT mapping and Firewall restriction.
